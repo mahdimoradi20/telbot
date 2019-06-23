@@ -1,0 +1,36 @@
+#Please Edit this information base on your bot and Database
+###########################################################
+
+#Replace the 'bot Token' with yout BOT Token:
+
+bot_token = 'bot Token'
+
+
+
+#Replace the 'host' with yout host IP(if you run this app on your computer just write 'localhost'):
+
+host_ip = 'host'
+
+
+
+#Replace the 'user' with yout Database user name:
+
+username = 'user'
+
+
+
+#Replace the 'password' with yout Database Password (if you don't have any password don't put anythings in this fild!):
+
+password = 'password'
+
+
+
+
+#Replace the 'dbname' with yout Database Name:
+
+
+Database_name = 'dbname'
+
+
+
+
